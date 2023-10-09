@@ -21,7 +21,7 @@
                 <div class="page-header">
                     <center>
                     <h1>
-                        DVWS <small>Damn Vulnerable Web Sockets</small>
+                        DVWS <small>Damn Vulnerable Web Sockets YodoVer</small>
                     </h1>
                     </center>
                 </div>
